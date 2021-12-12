@@ -1,0 +1,2 @@
+# Hugo_Shop
+THIS SCRIPT WORK WITH 20% OF STORE !!!!
